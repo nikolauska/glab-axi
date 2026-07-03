@@ -1,0 +1,4 @@
+interface:
+  display_name: "glab-axi"
+  short_description: "Operate GitLab with token-efficient CLI output"
+  default_prompt: "Use $glab-axi to inspect the current GitLab project and act on its issues or merge requests."
